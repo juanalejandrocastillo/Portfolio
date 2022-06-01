@@ -1,0 +1,36 @@
+.card {
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    background-color: #eceff1;
+    margin: 30px;
+}
+
+.card-main{
+
+    margin-top: 70px;
+    color: #666;    
+}
+
+.card-main > h1 {
+    text-align: center;
+
+    font-size: 25px;
+}
+
+.card-container {
+    text-align: center;
+
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 3px;
+    height: auto;
+    
+}
+
+.img-container {
+    border: 1px solid #dee2e6;
+    height: auto;    
+}
